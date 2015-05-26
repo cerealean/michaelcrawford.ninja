@@ -11,6 +11,7 @@
     },
     "require-dev": {
         "phpunit/phpunit" : "dev-master",
-        "phake/phake" : "dev-master"
+        "phake/phake" : "dev-master",
+        "zendframework/zftool" : "dev-master"
     }
 }
